@@ -3,4 +3,6 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="log_in">Log In</string>
+    <string name="message_1">Log In to Contact App!</string>
+    <string name="description_1">Main login image</string>
 </resources>
