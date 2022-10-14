@@ -7,6 +7,12 @@
         <entry key="..\:/Users/adamg/AndroidStudioProjects/Modul6/app/src/main/res/layout/activity_contact.xml" value="0.3625" />
         <entry key="..\:/Users/adamg/AndroidStudioProjects/Modul6/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/adamg/AndroidStudioProjects/Modul6/app/src/main/res/layout/item_contact.xml" value="0.75" />
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.204" />
+        <entry key="app/src/main/res/drawable/bg_input.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_contact.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17076416015625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/item_contact.xml" value="0.28804347826086957" />
       </map>
     </option>
   </component>
