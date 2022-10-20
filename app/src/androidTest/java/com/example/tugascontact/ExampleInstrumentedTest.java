@@ -1,4 +1,4 @@
-package com.example.modul6;
+package com.example.tugascontact;
 
 import android.content.Context;
 

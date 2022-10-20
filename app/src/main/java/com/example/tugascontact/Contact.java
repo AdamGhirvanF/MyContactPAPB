@@ -1,4 +1,4 @@
-package com.example.modul6;
+package com.example.tugascontact;
 
 public class Contact {
     public String name;
