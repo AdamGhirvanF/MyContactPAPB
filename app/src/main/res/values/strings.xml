@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas 2 Contactbook</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="message_1">Silahkan melakukan log in</string>
+    <string name="description_1">Main login image</string>
+</resources>
