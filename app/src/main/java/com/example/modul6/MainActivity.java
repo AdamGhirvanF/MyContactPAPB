@@ -4,10 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 
 import java.util.ArrayList;
 
@@ -27,11 +24,16 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView = (RecyclerView) findViewById(R.id.recycle_contact);
         contacts = new ArrayList<>();
 
-        contacts.add(new Contact("Jusuf Latifah", "+62878555504", R.drawable.jusuf_latifah));
-        contacts.add(new Contact("Burhanuddin Taufik", "+628785555041", R.drawable.burhanuddin));
-        contacts.add(new Contact("Latifah Bagus", "+628785555042", R.drawable.latifah_bagus));
-        contacts.add(new Contact("Agung Nurul", "+628785555043", R.drawable.agung_nurul));
-        contacts.add(new Contact("Cahaya Krisna", "+628785555044", R.drawable.cahaya_krisna));
+        contacts.add(new Contact("Agnes", "081289764563", R.drawable.pp_agnes));
+        contacts.add(new Contact("Andrew", "085867889868", R.drawable.pp_andrew));
+        contacts.add(new Contact("Ardhito", "082167129087", R.drawable.pp_ardhito));
+        contacts.add(new Contact("Budi", "+081355678754", R.drawable.pp_budi));
+        contacts.add(new Contact("Ghozali", "082267548976", R.drawable.pp_ghozali));
+        contacts.add(new Contact("Keisya", "081156453278", R.drawable.pp_keisya));
+        contacts.add(new Contact("Laura", "082378942801", R.drawable.pp_laura));
+        contacts.add(new Contact("Nadin", "081898437823", R.drawable.pp_nadin));
+        contacts.add(new Contact("Pamungkas", "085296462837", R.drawable.pp_pamungkas));
+        contacts.add(new Contact("Siska", "081372638910", R.drawable.pp_siska));
 
         linearLayoutManager = new LinearLayoutManager(this, RecyclerView.VERTICAL, false);
         mRecyclerView.setLayoutManager(linearLayoutManager);
